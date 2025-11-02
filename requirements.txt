@@ -1,7 +1,9 @@
 pandas
 numpy
 seaborn
+matplotlib
 scikit-learn
 tensorflow
 flaml
+lightgbm
 imbalanced-learn
